@@ -4,5 +4,5 @@ Demo: [http://webjeda.com/slides](http://webjeda.com/slides)
 * Fork the repository
 * Go to settings and set Github Pages source as master.
 * Your new site should be ready.
-
+* Anwar the GOAT
 For more themes visit - [https://jekyll-themes.com](https://jekyll-themes.com)
